@@ -5,10 +5,20 @@
  */
 package tiketkereta;
 
+import javax.swing.JOptionPane;
+import net.sf.jasperreports.engine.JRException;
+import net.sf.jasperreports.engine.JasperFillManager;
+import net.sf.jasperreports.engine.JasperPrint;
+import net.sf.jasperreports.swing.JRViewer;
+
 /**
  *
  * @author Lenovo
  */
-public class laporan {
+public class laporan extends javax.swing.JFrame {
     
+    
+    public laporan(){
+        initComponents();
+}
 }

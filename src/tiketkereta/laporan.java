@@ -5,11 +5,7 @@
  */
 package tiketkereta;
 
-import javax.swing.JOptionPane;
-import net.sf.jasperreports.engine.JRException;
-import net.sf.jasperreports.engine.JasperFillManager;
-import net.sf.jasperreports.engine.JasperPrint;
-import net.sf.jasperreports.swing.JRViewer;
+
 
 /**
  *
@@ -21,4 +17,8 @@ public class laporan extends javax.swing.JFrame {
     public laporan(){
         initComponents();
 }
+
+    private void initComponents() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
